@@ -5,7 +5,12 @@ $conn = mysqli_connect('db', 'root', '280', 'oss');
 <!DOCTYPE html>
 <html>
 <head>
-	<title>이용자 페이지</title>
+        <title>이용자 페이지</title>
+        
+        <style>
+        .list { border-collapse: collapse;}
+        .list th, .list td {border: 1px solid black;}
+        </style>
 </head>
 <body>
 <center><div>

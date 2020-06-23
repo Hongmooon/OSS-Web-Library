@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+                <title>예약 페이지</title>
+
+                <style>
+        .list { border-collapse: collapse;}
+        .list th, .list td {border: 1px solid black;}
+        </style>
+        
 	</head>
 	<body><center>
         <h4>대출을 예약 하고 싶은 도서의 번호를 입력하세요.</h4>

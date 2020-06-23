@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+                <title>도서 검색</title>
+
+                <style>
+        .list { border-collapse: collapse;}
+        .list th, .list td {border: 1px solid black;}
+        </style>
+        
 	</head>
 	<body>
 	<center>
